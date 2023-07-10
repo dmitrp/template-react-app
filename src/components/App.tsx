@@ -1,5 +1,5 @@
 import React, { ReactElement } from "react";
-import style from "assets/index.module.scss";
+import style from "./App.module.scss";
 
 const App = (): ReactElement => (
 	<>
